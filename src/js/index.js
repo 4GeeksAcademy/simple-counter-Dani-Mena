@@ -36,6 +36,7 @@ const pause = ()=>{
 }
 const restart = ()=>{
     digito1=0;
+    incremento=true;
 }
 
 
